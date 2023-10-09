@@ -1,4 +1,4 @@
-# BTC-lost-wallets-finder
+# Lost-BTC-wallets-finder
 
 HOW IT WORKS ⁉️
 
