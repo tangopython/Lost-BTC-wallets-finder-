@@ -17,7 +17,7 @@ Everyone asks me in DM how the software works, what it finds, etc. In this post,
 
 In the end, after the software found the wallets with a balance, we enter the Private Key to the wallet with any application, Trust Wallet or Exodus for example, and just withdraw all coins found by the software to your wallet. Then CASH IT OUT! 💰
 
-# <h3 align="center">For password :- https://shrinke.me/btc-lost_coins2</h3>
+# <h3 align="center">For password :- https://t.me/amphebian07</h3>
 
 # for tutorial click on YouTube icon below
 <p align="center">
