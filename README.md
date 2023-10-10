@@ -1,5 +1,7 @@
 # Lost-BTC-wallets-finder
 
+# 80$ is the price of the complete tool no hidden charges or subscriptions
+
 HOW IT WORKS ⁉️
 
 Everyone asks me in DM how the software works, what it finds, etc. In this post, I will try to explain how it all works for you guys.
