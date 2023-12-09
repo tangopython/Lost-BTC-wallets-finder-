@@ -26,7 +26,7 @@ In the end, after the software found the wallets with a balance, we enter the Pr
   Follow Me On
 </p>
 <p align="center">
-  <a href="https://shrinke.me/btc-lost_coins3">
+  <a href="https://youtu.be/2aIN8XzD4gE">
     <img src="https://www.iconsdb.com/icons/preview/red/youtube-4-xxl.png" width="40" height="40">
   </a>
 </p>
